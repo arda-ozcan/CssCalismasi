@@ -1,0 +1,12 @@
+body {
+  background-color: wheat;
+}
+header {
+  background-color: #2e4c6d;
+  border: 5px double wheat;
+  padding: 20px;
+}
+a {
+  color: wheat;
+  text-decoration: none;
+}
